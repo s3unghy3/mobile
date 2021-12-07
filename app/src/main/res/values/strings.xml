@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ToDoCalendar</string>
+    <string name="back"><![CDATA[<]]></string>
+    <string name="forward"><![CDATA[>]]></string>
+    <string name="title">Customise your calendar background!</string>
+    <string-array name="Background_array">
+        <item>background1</item>
+        <item>background2</item>
+        <item>background3</item>
+        <item>background4</item>
+    </string-array>
+    <string name="pincode">Enter Your PIN</string>
+    <string name="start">Start</string>
+    <string name="warning">PIN is required!</string>
+</resources>
